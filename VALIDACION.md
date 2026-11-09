@@ -13,6 +13,6 @@ En este apartado del proyecto tenemos que clonar un repositorio de github modifi
 - La respuesta HTTP 200 significa que no ha habido ningun problema, es decir que las pruebas han funcionado. 
 
 ## Enlaces
-[Github](https://github.com/carloscliment123/validacion)
-[Pages](https://carloscliment123.github.io/validacion/)
+- [Github](https://github.com/carloscliment123/validacion).
+- [Pages](https://carloscliment123.github.io/validacion/).
 
