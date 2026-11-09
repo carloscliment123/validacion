@@ -14,4 +14,5 @@ En este apartado del proyecto tenemos que clonar un repositorio de github modifi
 
 ## Enlaces
 [Github](https://github.com/carloscliment123/validacion)
+[Pages](https://carloscliment123.github.io/validacion/)
 
